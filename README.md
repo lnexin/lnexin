@@ -1,12 +1,12 @@
 # Hi there 👋 I'm a Full Stack Developer
 
-## 🚀 Full Stack Java Developer | Backend Specialist | Problem Solver
+## 🚀 Full Stack Developer | Backend Java/Golang | Frontend JS/Vue
 
 > *"Code is like humor. When you have to explain it, it's bad."* - Cory House
 
 ### 💼 About Me
 
-I'm a passionate Java developer with **6+ years** of experience building robust server applications and web systems. I love turning complex problems into simple, beautiful solutions. When I'm not coding, you'll find me exploring new technologies or contributing to open source projects.
+I'm a passionate developer with **8+ years** of experience building robust server applications and web systems. I love turning complex problems into simple, beautiful solutions. When I'm not coding, you'll find me exploring new technologies or contributing to open source projects.
 
 ### 🛠️ Tech Stack
 
@@ -24,18 +24,16 @@ I'm a passionate Java developer with **6+ years** of experience building robust 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-#### Database & Tools
+#### Database & DevOps & Others
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-#### DevOps & Others
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ### 🎯 Core Competencies
 
@@ -48,20 +46,21 @@ I'm a passionate Java developer with **6+ years** of experience building robust 
 
 ### 📈 What I'm Currently Working On
 
-- 🔥 Building high-performance microservices with Spring Boot and Go
-- 🌐 Developing scalable web applications with Vue.js and React
+- 🔥 Building high-performance microservices with Java and Go
 - 📊 Optimizing database queries and implementing caching strategies
-- 🔐 Implementing secure authentication and authorization systems
 - 🚀 Exploring cloud-native technologies and containerization
+- 🔐 Implementing secure authentication and authorization systems
+- 🌐 Developing scalable web applications with Vue.js and ES
 
 ### 🎓 Education
 
-- **Bachelor's Degree** in Information and Computing Science
+- **Bachelor of Science** in Information and Computing Science/Bachelor of Science
+
 - **University**: Computer Science Graduate
 
 ### 📫 Get In Touch
 
-- 💼 **LinkedIn**: [Connect with me](https://linkedin.com/in/du-xin)
+
 - 🐦 **GitHub**: [@lnexin](https://github.com/lnexin)
 
 ### ⚡ Fun Facts
@@ -73,7 +72,7 @@ I'm a passionate Java developer with **6+ years** of experience building robust 
 
 ### 🏆 Key Achievements
 
-- **6+ years** of professional development experience
+- **8+ years** of professional development experience
 - **50+** successful project deliveries
 - **3+** programming languages mastered (Java, Go, JavaScript)
 - **100%** client satisfaction rate on delivered projects
@@ -86,13 +85,6 @@ I'm a passionate Java developer with **6+ years** of experience building robust 
 - **Security Implementation**: Implemented OAuth authentication and API signature verification mechanisms
 - **Containerization**: Automated deployment using Docker and Jenkins
 
-### 🌟 Project Experience Highlights
-
-- **Cloud Parking SaaS System**: Multi-tenant architecture with WeChat/Alipay payment integration
-- **Advertising Platform**: High-concurrency processing with real-time data analytics
-- **Communication Gateway Service**: Native JDK development with WebSocket real-time communication
-- **Data Aggregation Analysis**: Big data processing with visualization capabilities
-
 ---
 
 <div align="center">
@@ -101,8 +93,8 @@ I'm a passionate Java developer with **6+ years** of experience building robust 
 
 *"The best code is no code at all, but when you need to write it, make it count!"*
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=lnexin&show_icons=true&theme=radical)](https://github.com/lnexin/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=lnexin&show_icons=true&theme=white)](https://github.com/lnexin/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lnexin&layout=compact&theme=radical)](https://github.com/lnexin/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lnexin&layout=compact&theme=white)](https://github.com/lnexin/github-readme-stats)
 
 </div>
