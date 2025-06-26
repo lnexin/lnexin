@@ -93,7 +93,7 @@ I'm a passionate developer with **8+ years** of experience building robust serve
 
 *"The best code is no code at all, but when you need to write it, make it count!"*
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=lnexin&show_icons=true&theme=white)](https://github.com/lnexin/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=lnexin&show_icons=true&theme=white&include_all_commits=true)](https://github.com/lnexin/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lnexin&layout=compact&theme=white)](https://github.com/lnexin/github-readme-stats)
 
