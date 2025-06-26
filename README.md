@@ -12,10 +12,10 @@ I'm a passionate developer with **8+ years** of experience building robust serve
 
 #### Backend Development
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Go](https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![MyBatis](https://img.shields.io/badge/MyBatis-000000?style=for-the-badge&logo=mybatis&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 #### Frontend Development
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -30,7 +30,7 @@ I'm a passionate developer with **8+ years** of experience building robust serve
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
@@ -87,14 +87,39 @@ I'm a passionate developer with **8+ years** of experience building robust serve
 
 ---
 
-<div align="center">
+<div >
 
 ### 🚀 Let's Build Something Amazing Together!
 
 *"The best code is no code at all, but when you need to write it, make it count!"*
 
-#[![GitHub stats](https://github-readme-stats.vercel.app/api?username=lnexin&show_icons=true&theme=white&include_all_commits=true)](https://github.com/lnexin/github-readme-stats)
+<!-- [![GitHub stats](https://github-readme-stats.vercel.app/api?username=lnexin&show_icons=true&theme=white&include_all_commits=true)](https://github.com/lnexin/github-readme-stats) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lnexin&layout=compact&theme=white)](https://github.com/lnexin/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lnexin&layout=compact&theme=white)](https://github.com/lnexin/github-readme-stats) -->
+
+</div>
+
+---
+
+<div align="center">
+
+
+<!-- 动态SVG吃豆人动画 -->
+<svg width="400" height="40" viewBox="0 0 400 60">
+  <circle cx="30" cy="30" r="28" fill="#ffe600" />
+  <path id="mouth" d="M30,30 L58,18 A28,28 0 1,1 58,42 Z" fill="#fff"/>
+  <circle id="eye" cx="40" cy="20" r="3" fill="#333" />
+  <g id="dots">
+    <circle cx="80" cy="30" r="5" fill="#fff" />
+    <circle cx="110" cy="30" r="5" fill="#fff" />
+    <circle cx="140" cy="30" r="5" fill="#fff" />
+    <circle cx="170" cy="30" r="5" fill="#fff" />
+    <circle cx="200" cy="30" r="5" fill="#fff" />
+    <circle cx="230" cy="30" r="5" fill="#fff" />
+    <circle cx="260" cy="30" r="5" fill="#fff" />
+  </g>
+  <animateTransform attributeName="transform" type="translate" from="0 0" to="330 0" begin="0s" dur="3s" repeatCount="indefinite"/>
+</svg>
+
 
 </div>
